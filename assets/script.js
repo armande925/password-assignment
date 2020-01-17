@@ -14,7 +14,7 @@ let validCharacters = ""
 let password = ""
 if (lowerCase) {
     validCharacters += lowerCaseCharacters
-
+    
 }
 if (upperCase) {
     validCharacters += upperCaseCharacters

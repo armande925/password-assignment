@@ -3,3 +3,25 @@
     color: coral;
     text-align: center;
 }
+
+/* .container {
+    text: center;
+}
+
+onclick {
+    margin-left: auto;
+}
+/* .textarea {
+    text-shadow: black;
+} */
+
+textarea{
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
